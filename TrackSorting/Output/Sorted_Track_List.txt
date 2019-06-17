@@ -1,0 +1,24 @@
+Artist 1
+	- Album 1 (1995):
+		Song 1 - 1994
+		Song 2 - N/A
+		Song 3 - 1995
+	- Album 2 (1999):
+		Song 4 - 1998
+	- Album 3 (N/A):
+		Song 5 - 2001
+		Song 6 - N/A
+	- No Album :
+		Song 7 - 1986
+		Song 8 - 2010
+Artist 2
+	- No Album :
+		Song 1 - N/A
+		Song 2 - 2001
+		Song 3 - 2005
+Artist 3
+	- Album 1 (2012):
+		Song 1 - 2011
+Unknown Artist :
+		Song 1 -  2012 (if you can find a track w/ artist but sill with infos)
+		Song 2 -  N/A (Normal case)
